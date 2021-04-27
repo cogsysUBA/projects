@@ -1,5 +1,5 @@
 # Research Projects with Code at Cognitive Systems (Uni Bamberg)
-Compilation of research projects with code conducted by the Cognitive Systems department of the Otto-Friedrich-Universität Bamberg.
+Compilation of research projects with code conducted by the [Cognitive Systems group](https://www.uni-bamberg.de/en/cogsys/) of the Otto-Friedrich-Universität Bamberg.
 
 * **LIME-Aleph**
   * __Short description__: Local symbolic explanations for classification results of black-box models
