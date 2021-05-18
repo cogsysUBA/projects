@@ -12,3 +12,9 @@ Compilation of research projects with code conducted by the [Cognitive Systems g
   * __Researchers__: Johannes Rabold, Gesina Schwalbe, Ute Schmid
   * __Link to paper__: [link](https://doi.org/10.1007/978-3-030-58285-2_11) (arxiv coming soon)
   * __Link to code__: [link](https://github.com/mc-lovin-mlem/concept-embeddings-and-ilp/tree/ki2020)
+
+* **Multi-Level-Multi-Modal-Explanation**
+  * __Short description__: Repository that contains the code for the paper "Explanation as a process: user-centric construction of multi-level and multi-modal explanations" submitted to KI 2021 by Finzel et al.
+  * __Researchers__: Bettina Finzel, David Elias Tafler, Stephan Scheele, Ute Schmid
+  * __Link to paper__: [link](to be updated)
+  * __Link to code__: [link](https://gitlab.rz.uni-bamberg.de/cogsys/public/multi-level-multi-modal-explanation)
