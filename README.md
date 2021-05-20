@@ -18,3 +18,10 @@ Compilation of research projects with code conducted by the [Cognitive Systems g
   * __Researchers__: Bettina Finzel, David Elias Tafler, Stephan Scheele, Ute Schmid
   * __Link to paper__: [link](to be updated)
   * __Link to code__: [link](https://gitlab.rz.uni-bamberg.de/cogsys/public/multi-level-multi-modal-explanation)
+
+* **Efficient Algorithms for Inductive Program Synthesis**
+  * __Short description__: Inductive program synthesis approach that guarantees to induce terminating programs with minimal generalization over examples.
+  * __Researchers__: Emanuel Kitzelmann, Martin Hofmann, Ute Schmid
+  * __Link to paper__: [link](https://cogsys.uni-bamberg.de/projects/effalip/publications.html)
+  * __Link to code__: [link](https://cogsys.uni-bamberg.de/projects/effalip/download.html)
+
