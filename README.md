@@ -7,6 +7,11 @@ Compilation of research projects with code conducted by the [Cognitive Systems g
   * __Link to paper__: [link](to be updated)
   * __Link to code__: [link](https://gitlab.rz.uni-bamberg.de/cogsys/public/multi-level-multi-modal-explanation)
 
+* **Jupyter Notebooks of the Course [XAI4Ing](https://ki-campus.org/courses/erklaerbareki2020)**
+  * LIME for Traffic Sign Classification Explanation [link](https://gitlab.rz.uni-bamberg.de/cogsys/public/ki-campus/lime-trafficsign-jupyter-notebook)
+  * LIME-Aleph [link](https://gitlab.rz.uni-bamberg.de/cogsys/public/ki-campus/lime-aleph)
+  * Trepan [link](https://gitlab.rz.uni-bamberg.de/cogsys/public/ki-campus/trepan-jupyter-notebook  )
+
 * **Expressive Explanations of DNNs by Combining Concept Analysis with ILP**
   * __Short description__: Global, model specific symbolic explanations for classification results of black-box models.
   * __Researchers__: Johannes Rabold, Gesina Schwalbe, Ute Schmid
