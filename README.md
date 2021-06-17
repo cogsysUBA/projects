@@ -29,4 +29,26 @@ Compilation of research projects with code conducted by the [Cognitive Systems g
   * __Researchers__: Emanuel Kitzelmann, Martin Hofmann, Ute Schmid
   * __Link to paper__: [link](https://cogsys.uni-bamberg.de/projects/effalip/publications.html)
   * __Link to code__: [link](https://cogsys.uni-bamberg.de/projects/effalip/download.html)
+  * __Link to website__: [link](https://cogsys.uni-bamberg.de/projects/effalip/index.html)
+
+* **Metagol_SN**
+  * __Short description__: Metagol is an inductive logic programming system learning logic rules from examples. Metagol_SN is a variant of that approach tailored to learning rules with exceptions. For example, any A is also a B unless it is also an C.
+  * __Researchers__: Michael Siebers, Ute Schmid
+  * __Link to paper__: [link](https://doi.org/10.1007/978-3-319-99960-9_9)
+  * __Link to code__: [link](https://github.com/michael-siebers/metagol/tree/ilp2018)
+
+* **SanSI**
+  * __Short description__: A system inducing definition for number series; like 1,3,5,7; by combining cognition-inspired enumeration and analytic fitting.
+  * __Researchers__: Michael Siebers, Ute Schmid
+  * __Link to paper__: [link](https://doi.org/10.1007/978-3-642-33347-7_25)
+  * __Link to code__: [link](https://github.com/michael-siebers/SanSi)
+  * __Link to website__: [link](https://www.uni-bamberg.de/en/cogsys/research/projects/numberseries/)
+
+* **Reasoning WebAPI**
+  * __Short description__: A (roughly) RESTful Webservice classifying files as irrelevant and explaining the classification.
+  * __Researchers__: Michael Siebers, Sebastian Seufert, Ute Schmid
+  * __Link to paper__: [link](https://doi.org/10.1007/s13218-018-0565-5)
+  * __Link to code__: [link](https://gitlab.rz.uni-bamberg.de/cogsys/dare2del/demonstrator)
+  * __Link to website__: [link](https://dare2del.de)
+
 
