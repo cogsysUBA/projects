@@ -17,6 +17,12 @@ Compilation of research projects with code conducted by the [Cognitive Systems g
   * __Researchers__: Johannes Rabold, Gesina Schwalbe, Ute Schmid
   * __Link to paper__: [link](https://arxiv.org/pdf/2105.07371.pdf)
   * __Link to code__: [link](https://github.com/mc-lovin-mlem/concept-embeddings-and-ilp/tree/ki2020)
+  
+* **GeNME: Generating contrastive explanations for inductive logic programming based on a near miss approach**
+  * __Short description__: Near miss explanation generation for a positive example given a theory learned by ILP and a fact base.
+  * __Researchers__: Johannes Rabold, Michael Siebers, Ute Schmid
+  * __Link to paper__: [link](https://link.springer.com/article/10.1007/s10994-021-06048-w)
+  * __Link to code__: [link](https://gitlab.rz.uni-bamberg.de/cogsys/public/genme-near-miss-explanations)
 
 * **LIME-Aleph**
   * __Short description__: Local, model agnostic symbolic explanations for classification results of black-box models.
